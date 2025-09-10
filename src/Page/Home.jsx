@@ -5,6 +5,7 @@ import Hero_Section from '../Component/MainCompo/Hero_Section'
 import Footer from '../Component/Share_Compo.jsx/Footer'
 import Faq from '../Component/MainCompo/Faq'
 import About_Product from '../Component/MainCompo/About_Product'
+import Order_Section from '../Component/MainCompo/Order_Section'
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
         {/* <Navbar></Navbar> */}
         <Hero_Section></Hero_Section>
         <About_Product></About_Product>
+        <Order_Section></Order_Section>
         <Faq></Faq>
 
         <Footer></Footer>
