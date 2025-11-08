@@ -1,12 +1,38 @@
-# React + Vite
+# 🌸 JAYSUI – Pregnancy Spot Removal Cream Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, modern, and responsive **product landing page** built to promote **JAYSUI**, a skincare cream designed to naturally fade pregnancy spots and restore even skin tone.  
+This landing page focuses on product awareness, customer trust, and easy purchasing flow.
 
-Currently, two official plugins are available:
+🔗 **Live Preview:** [https://jaysuing-p.netlify.app](https://jaysuing-p.netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🌿 **Hero Section** with product highlight and call-to-action button  
+- 💧 **About Product** section explaining benefits and effectiveness  
+- 🛍️ **Product Showcase** with vibrant visuals  
+- ❓ **FAQ Section** with collapsible answers  
+- ⭐ **Customer Reviews** section with verified profiles  
+- 💌 **Contact Form** for direct inquiries  
+- 📱 Fully responsive layout (desktop, tablet, and mobile)
+
+---
+
+## 🧠 Technologies Used
+
+- **HTML5**
+- **CSS3 / Tailwind CSS**
+- **JavaScript (Vanilla)**
+- **Netlify** for hosting and deployment
+
+---
+
+## 📸 Preview
+
+![JAYSUI Landing Page Preview](21e303a0-ece2-4c78-af4d-a67b5e311142.png)
+
+---
+
+## 📂 Folder Structure
+
